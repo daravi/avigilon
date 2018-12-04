@@ -1,0 +1,5 @@
+- Add a devconn_history file with timestamps
+- Better escalation process when TS can do the task
+- Connecting device... => no cancel option takes too long to time out
+- Solve each problem once
+	- Add password reset to Admin Tool with instructions on client login page (forgot password option) >> Option can be disabled disabling the Users folder deletion as well
